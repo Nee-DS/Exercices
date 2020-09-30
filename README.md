@@ -1,3 +1,4 @@
 # References
-Playing with Gapminder data 
+Playing with Gapminder data // 
+
 Deep Learning concepts
